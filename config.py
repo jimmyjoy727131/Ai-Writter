@@ -1,5 +1,5 @@
 ##OPEN API STUFF
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = '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'
 
 
 
@@ -9,7 +9,7 @@ class Config(object):
     TESTING = False
 
 class DevelopmentConfig(Config):
-    SECRET_KEY = "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"
+    SECRET_KEY = "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"
 
 
 config = {
